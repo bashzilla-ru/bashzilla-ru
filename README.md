@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osyagin2195&label=Profile%20views&color=0e75b6&style=flat" alt="osyagin2195" /> </p>
 
-- 📫 How to reach me **info@carteldev.ru**
+- 📫 How to reach me **iam@bashzilla.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
